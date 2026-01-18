@@ -4,7 +4,8 @@ title: "Pamela Mishra"
 
 ## Bioinformatics Programmer / Scientist
 
-I design and implement reproducible computational genomics workflows for RNA-seq, single-cell, and splicing analyses, with an emphasis on clean engineering, scalability, and biological interpretation.
+I design and implement reproducible computational genomics workflows in CWL, Nextflow, snakemake
+	** for RNA-seq, single-cell, and splicing analyses, with an emphasis on clean engineering, scalability, and biological interpretation.
 
 ---
 
