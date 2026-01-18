@@ -3,3 +3,6 @@ languageCode = 'en-us'
 title = 'My New Hugo Site'
 
 theme = "PaperMod"
+
+theme = "PaperMod"
+baseURL = "https://pamelamishra.github.io/"
