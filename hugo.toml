@@ -8,10 +8,7 @@ enableRobotsTXT = true
 [params]
   version = "1.0.X"
 
-[markup]
-  [markup.highlight]
-    noClasses = false
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+[markup.goldmark]
+  [markup.goldmark.renderer]
+    unsafe = true
 
