@@ -26,5 +26,5 @@ I design and implement reproducible computational genomics workflows in CWL, Nex
 
 ### Contact
 - GitHub: https://github.com/pamelamishra  
-- Email: *(add when ready)*
+- Email: pamelamishra@gmail.com
 
