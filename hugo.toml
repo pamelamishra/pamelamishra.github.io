@@ -6,7 +6,7 @@ theme = "FeelIt"
 enableRobotsTXT = true
 
 [params]
-  defaultTheme = "auto"   # auto | light | dark
+  version = "1.0.X"
 
 [markup]
   [markup.highlight]
