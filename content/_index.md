@@ -2,29 +2,17 @@
 title: "Pamela Mishra"
 ---
 
-## Bioinformatics Programmer / Scientist
+# Pamela Mishra
+### Bioinformatics Programmer / Scientist
 
-I design and implement reproducible computational genomics workflows in CWL, Nextflow, snakemake
-	** for RNA-seq, single-cell, and splicing analyses, with an emphasis on clean engineering, scalability, and biological interpretation.
-
----
-
-### Research & Interests
-- RNA-seq and transcriptomics
-- Alternative splicing and microexons
-- Single-cell analysis (Seurat)
-- Workflow engineering (Nextflow, Snakemake, HPC)
+I build reproducible genomics workflows for RNA-seq, single-cell, and splicing analyses.
 
 ---
 
-### Selected Projects
-- **RNA-seq Nextflow pipeline** – end-to-end processing with QC and reporting  
-- **Microexon analysis** – PSI/LSV-based splicing discovery  
-- **Single-cell workflows** – clustering, annotation, marker analysis
+## Projects
+- **Project A** — short description (tools, impact)  
+- **Project B** — short description  
 
----
-
-### Contact
-- GitHub: https://github.com/pamelamishra  
-- Email: pamelamishra@gmail.com
-
+## Publications
+- **Paper 1** (Year) — Journal / preprint  
+- **Paper 2** (Year) — Journal / preprint  
