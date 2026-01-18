@@ -1,16 +1,13 @@
 baseURL = "https://pamelamishra.github.io/"
 languageCode = "en-us"
 title = "Pamela Mishra"
-theme = "PaperMod"
+theme = "FeelIt"
 
-[menu]
+enableRobotsTXT = true
 
-  [[menu.main]]
-  name = "Projects"
-  url = "/projects/"
-  weight = 10
+[params]
+  defaultTheme = "auto"   # auto | light | dark
 
-  [[menu.main]]
-  name = "Publications"
-  url = "/publications/"
-  weight = 20
+[markup]
+  [markup.highlight]
+    noClasses = false
